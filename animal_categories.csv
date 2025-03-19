@@ -1,0 +1,25 @@
+,feathers,fur,hair,none,scales,Legs,Is Warm Blooded,Aquatic,Aerial,Lays Eggs,Category
+Tree Frog,0,0,0,1,0,4,0,1,0,1,amphibian
+Cane Toad,0,0,0,1,0,4,0,0,0,1,amphibian
+Ball Python,0,0,0,0,1,0,0,0,0,1,reptile
+Dove,1,0,0,0,0,2,1,0,1,1,bird
+Human,0,0,1,0,0,2,1,0,0,0,mammal
+Lion,0,1,0,0,0,4,1,0,0,0,mammal
+Chihuaha,0,1,0,0,0,4,1,0,0,0,mammal
+Crow,1,0,0,0,0,2,1,0,1,1,bird
+Monitor Lizard,0,0,0,1,0,4,0,0,0,1,reptile
+Veiled Chameleon,0,0,0,0,1,4,0,0,0,1,reptile
+Humpback Whale,0,0,1,0,0,0,1,2,0,0,mammal
+Eastern Newt,0,0,0,1,0,4,0,1,0,1,amphibian
+Falcon,1,0,0,0,0,2,1,0,1,1,bird
+Bat,0,0,1,0,0,2,1,0,1,0,mammal
+Barn Owl,1,0,0,0,0,2,1,0,1,1,bird
+Blue Tongued Skink,0,0,0,0,1,4,0,0,0,1,reptile
+Sea Turtle,0,0,0,0,1,4,0,2,0,1,reptile
+Red back Salamander,0,0,0,1,0,4,0,1,0,1,amphibian
+Penguin,1,0,0,0,0,2,1,1,0,1,bird
+Parrot,1,0,0,0,0,2,1,0,1,1,bird
+Rabbit,0,1,0,0,0,4,1,0,0,0,mammal
+Gorilla,0,0,1,0,0,2,1,0,0,0,mammal
+Tasmanian Devil,0,1,0,0,0,4,1,0,0,0,mammal
+Green Anaconda,0,0,0,0,1,0,0,2,0,1,reptile
